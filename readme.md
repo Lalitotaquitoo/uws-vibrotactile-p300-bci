@@ -14,13 +14,14 @@
 
 uws-vibrotactile-p300-bci/  
 ├── data/               EEG .mat (no versionar)  
-├── notebooks/          Análisis exploratorio en Jupyter  
 ├── src/                Módulos: preprocesamiento, modelo, entrenamiento, evaluación  
-├── models/             Modelos entrenados y estadísticas de normalización  
 ├── README.md           Documentación (este archivo)  
 ├── requirements.txt    Dependencias  
 ├── .gitignore          Archivos a ignorar  
-└── LICENSE             Licencia MIT  
+├── Results             Archivo pybn
+## Archivo pybn
+Clona el repositorio en colab y utilizalo para mejoralo
+
 
 ## 🚀 Instalación y Uso
 
