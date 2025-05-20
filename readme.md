@@ -43,13 +43,13 @@ uws-vibrotactile-p300-bci/
 
 ![Accuracies por fold](images/fold1_accuracy.png)
 
-### 📉 Curvas de Entrenamiento
+### 📉 Precisión por Fold2
 
-![Curva de pérdida y accuracy](images/curva_entrenamiento.png)
+![Curva de pérdida y accuracy](images/fold1_accuracy2.png)
 
 ### 🧩 Matriz de Confusión
 
-![Confusion Matrix](images/confusion_matrix_p1_high2.png)
+![Confusion Matrix](images/matriz.png)
 ## 📜 Licencia
 
 MIT License
