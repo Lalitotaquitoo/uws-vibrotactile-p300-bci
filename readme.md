@@ -39,18 +39,17 @@ uws-vibrotactile-p300-bci/
 
 ## 📊 Resultados Obtenidos
 
-Ejemplo de resultados de validación cruzada (5 folds):  
-- Precisión promedio: **0.87**  
-- Fold 1: 0.85  
-- Fold 2: 0.88  
-- Fold 3: 0.86  
-- Fold 4: 0.89  
-- Fold 5: 0.88  
+### ✅ Precisión por Fold
 
-Precisión en nuevas señales (P1_high2.mat): **0.90**  
+![Accuracies por fold](images/fold1_accuracy.png)
 
-*(Actualiza estos valores con tus propios resultados.)*
+### 📉 Curvas de Entrenamiento
 
+![Curva de pérdida y accuracy](images/curva_entrenamiento.png)
+
+### 🧩 Matriz de Confusión
+
+![Confusion Matrix](images/confusion_matrix_p1_high2.png)
 ## 📜 Licencia
 
 MIT License
